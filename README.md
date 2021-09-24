@@ -40,7 +40,25 @@ luckily the data is clean because there are no missing value and duplicates valu
 
 ## Exploratory Data Analysis
 ### Most Best Sales of Category
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_category.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profit_category.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_category.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_subcategory.png)
+
 ### Segment with most Profit Ratio
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_revenue_segment.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_netprofit_segment.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_segment.png)
+
 ### Region with The Most Profit
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_market.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_region.png)
+
 ### The Most Profitable of Ship Mode
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_sales_shipping.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profitrate_shipmode.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_expensive_shipcost.png)
+
 ### Effect of Discount on Profit
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/finance_corr.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/discount_effect.png)
