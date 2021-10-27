@@ -43,12 +43,11 @@ But new column 'Profit Ratio' created by calculation of 'Profit' divided by 'Sal
 ## Exploratory Data Analysis
 **DISCLAIMER: his Analysis still just for Providing Insight Purpose. It should be available to proceed to advanced analysis**
 ### Most Best Sales of Category
-![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_category.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profit_category.png)
 
 Office Supplies are the most profitable, based on Margin Profit of Sales that Office Supplies are the highest
 
-
-![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_profit_category.png)
+![](https://github.com/hendrywijaya98/Global_Superstore_Sales_Analysis/blob/main/images/most_category.png)
 
 
 Even Tech is the most Sales and Profit, but IT Still not bring good profit margin to tech
