@@ -1,4 +1,4 @@
-# Global_Superstore_Sales_Analysis. 
+# Global Superstore Sales Analysis. 
 Analysis of Sales of Global Superstore from Profit, Sales, Profit Ratio with Global Superstore Dataset (AHM Data Analyst Technical Test). Global Superstore dataet is contains data on order details of customers for orders of a superstore globally 
 
 ## Data Inspection
