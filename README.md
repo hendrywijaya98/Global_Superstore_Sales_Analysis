@@ -1,5 +1,5 @@
 # Global Superstore Sales Analysis. 
-Analysis of Sales of Global Superstore from Profit, Sales, Profit Ratio with Global Superstore Dataset (AHM Data Analyst Technical Test). Global Superstore dataet is contains data on order details of customers for orders of a superstore globally 
+Analysis of Sales of Global Superstore from Profit, Sales, Profit Ratio with Global Superstore Dataset (AHM Data Analyst Technical Test). Global Superstore dataset is contains data on order details of customers for orders of a superstore globally 
 
 ## Data Inspection
 Global Superstore dataset have 51290 rows and 24 columns, which is included 4 kind of data types like datetime64[ns], float64, int64, object(categorical)
